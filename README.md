@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EComdty
+- 👋 Hi, I’m @EComdty, a code enthusiast
 - 👀 I’m interested in finance
 - 🌱 I’m currently learning R
 - 💞️ I’m looking to collaborate on ...
